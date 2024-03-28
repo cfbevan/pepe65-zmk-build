@@ -1,0 +1,12 @@
+identifier: pepe65
+name: pepe65
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+  - xtools
+supported:
+  - usb_device
+  - ble
+  - adc
